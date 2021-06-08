@@ -6,3 +6,6 @@ https://mediaqueri.es/
 
 github:
 https://github.com/degranda/batata-bit
+
+centrar un elemento con display flex
+align-self: center;
