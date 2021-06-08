@@ -1,0 +1,39 @@
+/* --------------------------------------------------
+1. Posicionamiento
+2. Modelo de caja (Box model)
+3. Tipografía
+4. Viduales
+5. Otros
+-------------------------------------------------- */
+
+/* --------------------------------------------------
+# VARIABLES
+-------------------------------------------------- */
+:root {
+  /* ---------- 
+  # COLORS 
+  ---------- */
+  --bitcoin-orange: #f7931a;
+  --soft-orange: #ffe9d1;
+  --secondary-blue: #1a9af7;
+  --soft-blue: #e7f5ff;
+  --warm-black: #201e1c;
+  --warm-blackplus-1: #282623;
+  --gray: #bababa;
+  --off-white: #faf8f7;
+  --just-white: #ffffff;
+}
+
+/* --------------------------------------------------
+# STANDART RULES
+-------------------------------------------------- */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "DM Sans", sans-serif;
+}
