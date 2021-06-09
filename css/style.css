@@ -173,8 +173,7 @@ main {
 
 .main-currency-table .currency-table--title {
   margin-bottom: 15px;
-  text-align: left;
-  margin-left: 30px;
+  text-align: center;
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 2.344rem;
@@ -578,4 +577,44 @@ main {
 
 /* --------------------------------------------------
 # FOOTER SECTION
+-------------------------------------------------- */
+footer {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  padding: 30px;
+  background-color: var(--bitcoin-orange);
+}
+
+footer section {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer section ul {
+  list-style: none;
+}
+
+footer section ul li a {
+  text-decoration: none;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  color: var(--just-white);
+  margin: 10px 0;
+}
+
+footer section ul li {
+  margin: 10px 0;
+}
+
+footer section img {
+  width: 65px;
+  height: 50px;
+}
+
+/* --------------------------------------------------
+# MEDIA QUERIES
 -------------------------------------------------- */
