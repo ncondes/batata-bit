@@ -9,3 +9,6 @@ https://github.com/degranda/batata-bit
 
 centrar un elemento con display flex
 align-self: center;
+
+BEM:
+https://platzi.com/tutoriales/2008-html-css/7858-bem-la-mejor-manera-de-nombrar-tus-clases-de-html/
