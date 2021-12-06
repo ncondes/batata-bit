@@ -108,7 +108,7 @@ header img {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("/assets/icons/down-arrow.svg");
+  background-image: url("./assets/icons/down-arrow.svg");
 }
 
 /* --------------------------------------------------
@@ -140,7 +140,7 @@ main {
   height: 195px;
   margin: 0 auto;
   margin-bottom: 50px;
-  background-image: url("/assets/images/Bitcoin.svg");
+  background-image: url("./assets/images/Bitcoin.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -230,7 +230,7 @@ main {
   width: 15px;
   height: 15px;
   margin-left: 10px;
-  background-image: url("/assets/icons/trending-down.svg");
+  background-image: url("./assets/icons/trending-down.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -241,7 +241,7 @@ main {
   width: 15px;
   height: 15px;
   margin-left: 10px;
-  background-image: url("/assets/icons/trending-up.svg");
+  background-image: url("./assets/icons/trending-up.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -290,7 +290,7 @@ main {
   left: calc(50% - 20px);
   width: 40px;
   height: 25px;
-  background-image: url("/assets/icons/batata.svg");
+  background-image: url("./assets/icons/batata.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -353,7 +353,7 @@ main {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background-image: url("/assets/icons/clock.svg");
+  background-image: url("./assets/icons/clock.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -364,7 +364,7 @@ main {
   width: 22px;
   height: 16px;
   margin-bottom: 10px;
-  background-image: url("/assets/icons/eye.svg");
+  background-image: url("./assets/icons/eye.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -375,7 +375,7 @@ main {
   width: 22px;
   height: 22px;
   margin-bottom: 10px;
-  background-image: url("/assets/icons/dollar-sign.svg");
+  background-image: url("./assets/icons/dollar-sign.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -386,7 +386,7 @@ main {
   width: 24px;
   height: 24px;
   margin-bottom: 10px;
-  background-image: url("/assets/icons/check-circle.svg");
+  background-image: url("./assets/icons/check-circle.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -558,7 +558,7 @@ main {
   display: inline-block;
   width: 24px;
   height: 24px;
-  background-image: url("/assets/icons/orange-right-arrow.svg");
+  background-image: url("./assets/icons/orange-right-arrow.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
