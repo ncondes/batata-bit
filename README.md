@@ -1,4 +1,4 @@
-# Todo App
+# Batata bit Landing Page
 
 This app was built using HTML and CSS, to make the design of the Landing page implementing Mobile first design, and make the layout from Figma.
 
